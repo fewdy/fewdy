@@ -1,6 +1,6 @@
 # Alireza Qorbani
 
-Front-End Web Developer 💻
+JS Front-End Web Developer 💻
 
 Your Wish Is Your Command 🚩
 
